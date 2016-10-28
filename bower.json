@@ -1,0 +1,10 @@
+{
+  "name": "angular-mobiscroll",
+  "version": "2.17.1",
+  "main": [
+    "./css/mobiscroll.custom-2.17.1.min.css",
+    "./js/mobiscroll.custom-2.17.1.min.js"
+  ],
+  "ignore": [],
+  "dependencies": {}
+}
